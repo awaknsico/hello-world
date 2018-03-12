@@ -1,3 +1,5 @@
 # hello-world
-omobydp.herokuapp.com
+#OMObyDP
+http://omobydp.herokuapp.com/index.html
+#EtukUnyimeArts
 https://etukunyimearts.com/
