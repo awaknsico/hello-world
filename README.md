@@ -1,2 +1,3 @@
 # hello-world
-https://seakak.000webhostapp.com/
+omobydp.herokuapp.com
+https://etukunyimearts.com/
